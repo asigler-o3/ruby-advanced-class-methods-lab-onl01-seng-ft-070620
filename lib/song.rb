@@ -6,7 +6,7 @@ class Song
     @name = name
     @artist = artist
   end
-  
+
   def self.all
     @@all
   end
@@ -24,7 +24,7 @@ class Song
   end
 
   def destroy_all
-
+    
   end
 
 end
