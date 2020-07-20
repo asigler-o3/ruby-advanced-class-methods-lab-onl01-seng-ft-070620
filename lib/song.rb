@@ -12,4 +12,8 @@ class Song
 
   def create
 
+  end
+
+  def
+
 end
