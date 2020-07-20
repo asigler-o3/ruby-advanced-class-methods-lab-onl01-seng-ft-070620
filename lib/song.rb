@@ -14,6 +14,6 @@ class Song
 
   end
 
-  def
+  def destroy_all
 
 end
